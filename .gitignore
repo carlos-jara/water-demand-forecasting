@@ -1,2 +1,5 @@
 test_scripts/
 data/
+example_iai/
+IAI/
+.vscode
